@@ -1,2 +1,2 @@
 # django_readme_app
-!(readmeApp_dict.PNG)
+![readmeDictionaryApp](readmeApp_dict.PNG)
